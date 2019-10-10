@@ -71,6 +71,7 @@ public class MainActivity extends AppCompatActivity implements
     private boolean mIsEnabled;
     private GoogleApiClient mClient;
     private Geofencing mGeofencing;
+    private boolean GoogleX;
 
     /**
      * Called when the activity is starting
